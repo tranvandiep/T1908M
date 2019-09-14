@@ -1,0 +1,36 @@
+* {
+	font-size: 30pt;
+}
+
+body {
+	background-color: #42d1f5;
+}
+
+ul#ul_hot_girl_1 {
+	background-color: #34aeeb; 
+	background-image: url('https://vnn-imgs-f.vgcloud.vn/2019/05/03/11/co-gai-khien-hot-girl-tram-anh-bi-lu-mo-vi-qua-xinh-dep-3.jpg'); 
+	background-repeat: no-repeat; 
+	background-size: cover;
+}
+
+ul#ul_hot_girl_2 {
+	background-color: #34aeeb; 
+	background-image: url('https://genknews.genkcdn.vn/2019/5/9/photo-1-15574035378131752203878.jpeg'); 
+	background-size: contain;
+}
+
+ul#ul_hot_girl_3 {
+	background-color: #34aeeb; 
+	background-image: url('https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBMk5Gb.img?h=936&w=624&m=6&q=60&o=f&l=f&x=431&y=578'); 
+	background-size: contain;
+}
+
+.font_abc {
+	color: white;
+	font-size: 20pt;
+	background-color: red !important;
+}
+
+.background_yellow {
+	background-color: yellow !important;
+}
